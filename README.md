@@ -1,1 +1,1 @@
-# AIAA_SBCS_TemplateCode#
+# AIAA_SBCS_TemplateCode
