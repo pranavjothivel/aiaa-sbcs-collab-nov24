@@ -1,1 +1,1 @@
-# AIAA_SBCS_TemplateCode# aiaa-sbcs-collab-nov24
+# AIAA_SBCS_TemplateCode#
